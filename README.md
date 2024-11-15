@@ -27,10 +27,16 @@ o	Tap the Open Markdown Record button to load a .md record.
 o	Alter and change over the substance as wanted. 
 
 Code Overview
-o	convert_to_html(): Converts Markdown text to HTML using the markdown library.
-o	save_html(): Saves the converted HTML output to a user-defined file path.
-o	open_markdown_file(): Loads content from a Markdown file into the text area.
+
+o	convert_to_html(): 
+    Converts Markdown text to HTML using the markdown library.
+o	save_html(): 
+    Saves the converted HTML output to a user-defined file path.
+o	open_markdown_file(): 
+    Loads content from a Markdown file into the text area.
+
 Requirements
+
 •	Python 3.x
 •	Libraries:
 o	tkinter (built-in with Python on most systems)
