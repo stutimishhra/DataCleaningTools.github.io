@@ -9,6 +9,8 @@ Preview: Displays the changed over HTML yield in a see window.
 User-Friendly GUI: Straightforward and appealing GUI built with tkinter, utilizing clear textual styles and a present day color plot. 
 
 Screenshots:
+
+
 ![image](https://github.com/user-attachments/assets/5b1d2524-af5e-43e9-a792-679289ac87f7)
 ![image](https://github.com/user-attachments/assets/c8dea566-1e04-4ea7-ba81-f1d3ccaac90c)
 ![image](https://github.com/user-attachments/assets/db67594b-4308-46b9-a85e-4ccd7fa76e01)
