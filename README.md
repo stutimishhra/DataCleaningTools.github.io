@@ -1,4 +1,5 @@
 Data Cleaning Application
+
 The software is a simple GUI-based app for cleaning and preprocessing CSV data files using Python and Tkinter. It offers an intuitive interface to handle missing values, removes duplicates, fixes data types, standardizes text data, and handles outliers.
 
 Features
